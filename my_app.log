@@ -1,0 +1,9 @@
+cat <<EOF > my_app.log
+[INFO] System started
+[WARNING] Disk space low
+[ERROR] Database connection failed
+[INFO] User logged in
+[WARNING] High memory usage
+[ERROR] File not found
+[INFO] Cleanup complete
+EOF
