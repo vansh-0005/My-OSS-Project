@@ -4,7 +4,7 @@
 # Usage: ./log_analyzer.sh <logfile> [keyword]
 
 LOGFILE=$1
-# Default keyword is 'error' if the second argument is missing
+# Default keyword is 'error' if the second argument is missin
 KEYWORD=${2:-"error"}
 COUNT=0
 

@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 1: System Identity Report
-# Author: Sankalp Tripathi [cite: 103]
+# Author: Vansh Sharma [cite: 103]
 
 STUDENT_NAME="Vansh Sharma"
 SOFTWARE_CHOICE="Git"

@@ -6,7 +6,7 @@
 # Concepts: Dpkg, Case statements, Grep, and If-Else logic.
 # ==========================================================
 
-# I'm defining my target software here
+# I'm defining my target software 
 SOFTWARE="git"
 
 echo "--- Starting Package Audit for: $SOFTWARE ---"

@@ -6,7 +6,7 @@
 # Concepts: User input (read), Grep, Word Count (wc), and Tail.
 # ==========================================================
 
-# I'm using a common log file on Kali/Debian systems
+# I'm using a common log file on Kali/Debian system
 LOG_FILE="/var/log/syslog"
 
 echo "-------------------------------------------------------"
