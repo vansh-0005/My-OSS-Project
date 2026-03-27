@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Unit 5: Open Source Manifesto Generator
+# Unit 5: Open Source Manifesto Generato
 # Author: Sankalp Tripathi (24BCY10005)
 # Note: I could set an alias for this like: alias gen='./manifesto_gen.sh'
 
