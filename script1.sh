@@ -2,7 +2,7 @@
 # Script 1: System Identity Report
 # Author: Sankalp Tripathi [cite: 103]
 
-STUDENT_NAME="Sankalp Tripathi"
+STUDENT_NAME="Vansh Sharma"
 SOFTWARE_CHOICE="Git"
 KERNEL=$(uname -r)
 DISTRO=$(cat /etc/os-release | grep "PRETTY_NAME" | cut -d'"' -f2)
